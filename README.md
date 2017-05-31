@@ -51,4 +51,4 @@ The Zoopla data collected and used in *Zoopla ML caravans.py* is not shown as it
 
 ## Licence
 
-Released under the [GNU General Public License, version 3](https://github.com/ONSBigData/Who-you-work-with/blob/master/LICENSE).
+Released under the LICENSE
