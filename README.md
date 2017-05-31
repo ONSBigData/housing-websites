@@ -51,4 +51,4 @@ The Zoopla data collected and used in *Zoopla ML caravans.py* is not shown as it
 
 ## Licence
 
-Released under the LICENSE
+Released under the [MIT License](LICENSE).
