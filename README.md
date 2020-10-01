@@ -1,4 +1,4 @@
-# Housing websites
+# Housing websites:
 
 ## Overview
 
@@ -10,7 +10,7 @@ This work was driven by the need to accurately identify the location of caravan 
 
 ## How do I use this project?
 
-### Requirements/Pre-requisites
+### Requirements/Pre-requisites:
 
 To obtain data from the Zoopla API, an API key is required which can be obtained from the [Zoopla developer pages](http://developer.zoopla.com/). No API key is required for accessing the [Nestoria API](http://www.nestoria.co.uk/help/api).
 
@@ -21,7 +21,7 @@ All code is written using Python 3.4, with different packages required by each f
 - pandas
 - requests
 
-### Data
+### Data:-
 
 The Zoopla data collected and used in *Zoopla ML caravans.py* is not shown as it was collected using a specific API key. However example data is shown here:
 
@@ -45,10 +45,10 @@ The Zoopla data collected and used in *Zoopla ML caravans.py* is not shown as it
 }
 ```
 
-## Contributors
+## Contributors:
 
 [Karen Gask](https://github.com/gaskyk), working for the [Office for National Statistics Big Data project](https://www.ons.gov.uk/aboutus/whatwedo/programmesandprojects/theonsbigdataproject)
 
-## Licence
+## Licence:
 
 Released under the [MIT License](LICENSE).
